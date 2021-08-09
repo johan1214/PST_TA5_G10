@@ -16,7 +16,9 @@ public class MainActivity extends AppCompatActivity {
         }
         setTheme(R.style.Theme_AMST10);
         super.onCreate(savedInstanceState);
-
+        //jajdajd
+        ///adadniadna
+        //helpp
         setContentView(R.layout.activity_main);
     }
 }
